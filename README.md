@@ -86,7 +86,6 @@ _None in this dataset._
 
 **Daraspreet Singh**  
 📘 GitHub: [@DPS-2912](https://github.com/DPS-2912)  
-🎯 Passionate about database systems, backend automation & logic-driven workflows.
 
 ---
 
